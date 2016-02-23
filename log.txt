@@ -1,0 +1,55 @@
+57b6d0ffd61618193bd0d13b35bef7fd05b40cd8 Changed mouth to red
+cb768820a17f4494a71c60f58ab9613f44fdc53b Message and head changed.
+5945b3a3eb049d151c421188b9ec512ba028bc85 Head color to gray
+5dcfd48d56f62c16da64d1236bd179b4ce3535f9 Dimensions changed.
+4e2eac0be9434129ee77e77b67c3ece2602092bc Changed eyes to blue
+e62af4dd84f57e2e327ac06916731386dc1466cb Eye changes.
+fd386afe4db8f77e3b6f7209bf3cf140c3c86800 First Commit with intial code added
+ae04fb3e3be29a07d3a8c242d562a2ef6fe81ffb Initial commit
+commit 57b6d0ffd61618193bd0d13b35bef7fd05b40cd8
+Author: Michael Schneider <mischnei@mines.edu>
+Date:   Tue Feb 23 15:33:08 2016 -0700
+
+    Changed mouth to red
+
+commit cb768820a17f4494a71c60f58ab9613f44fdc53b
+Author: Claire Collier <ccollier@mymail.mines.edu>
+Date:   Tue Feb 23 15:29:57 2016 -0700
+
+    Message and head changed.
+
+commit 5945b3a3eb049d151c421188b9ec512ba028bc85
+Author: Michael Schneider <mischnei@mines.edu>
+Date:   Tue Feb 23 15:28:43 2016 -0700
+
+    Head color to gray
+
+commit 5dcfd48d56f62c16da64d1236bd179b4ce3535f9
+Author: Claire Collier <ccollier@mymail.mines.edu>
+Date:   Tue Feb 23 15:27:09 2016 -0700
+
+    Dimensions changed.
+
+commit 4e2eac0be9434129ee77e77b67c3ece2602092bc
+Author: Michael Schneider <mischnei@mines.edu>
+Date:   Tue Feb 23 15:25:17 2016 -0700
+
+    Changed eyes to blue
+
+commit e62af4dd84f57e2e327ac06916731386dc1466cb
+Author: Claire Collier <ccollier@mymail.mines.edu>
+Date:   Tue Feb 23 15:19:24 2016 -0700
+
+    Eye changes.
+
+commit fd386afe4db8f77e3b6f7209bf3cf140c3c86800
+Author: Michael Schneider <mischnei@mines.edu>
+Date:   Tue Feb 23 12:50:34 2016 -0700
+
+    First Commit with intial code added
+
+commit ae04fb3e3be29a07d3a8c242d562a2ef6fe81ffb
+Author: trustek <mischnei@mines.edu>
+Date:   Tue Feb 23 11:02:04 2016 -0700
+
+    Initial commit
